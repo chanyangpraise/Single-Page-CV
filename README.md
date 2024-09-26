@@ -1,1 +1,1 @@
-https://github.com/chanyangpraise/roadmap.sh-solutions
+https://roadmap.sh/projects/single-page-cv
